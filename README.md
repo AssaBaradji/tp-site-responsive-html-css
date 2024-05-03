@@ -31,5 +31,9 @@ Les contributions sont les bienvenues ! Pour les bugs et les suggestions, veuill
 
 - Basé sur le travail initial de [Dev-Faiz](https://github.com/Dev-faiz/Dev-faiz.git) - Auteur initial
 
-## Diffucultés rencontrés: j'ai mis beaucoup de temps à réaliser ce projet j'ai rencontrés beaucoup d'erreurs et j'ai voulu utiliser console pour detecter les erreurs que 'ai faite pour pouvoir appoter des corrections mais je ne c'est pas comment sa marche et J'ai eu beaucoup de difficultés à comprendre les proprietés CSS.  
+Diffucultés rencontrés: j'ai mis beaucoup de temps à réaliser ce projet 
+j'ai rencontrés beaucoup d'erreurs et j'ai voulu utiliser console pour detecter les erreurs que j'ai faite
+pour pouvoir appoter des corrections mais je ne c'est pas comment sa marche
+et J'ai eu beaucoup de difficultés à comprendre les proprietés CSS.  
+
 
